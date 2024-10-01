@@ -1,0 +1,11 @@
+# Ignorar la carpeta node_modules
+node_modules/
+uploads/
+# Ignorar el archivo .env
+.env
+
+# Ignorar el archivo Dockerfile
+Dockerfile
+
+# Ignorar el archivo .dockerignore
+.dockerignore
